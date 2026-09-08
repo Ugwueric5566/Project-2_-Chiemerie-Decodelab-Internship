@@ -59,10 +59,11 @@ Generate insights that can support data-driven business decisions.
 
 ►  [Chiemerie Project 2 Dataset for Data Analytics (14).xlsx](https://github.com/user-attachments/files/31917038/Chiemerie.Project.2.Dataset.for.Data.Analytics.14.xlsx)
 
-►  <img width="2522" height="1091" alt="Decodelabs Project Dashboard" src="https://github.com/user-attachments/assets/25f0685c-1004-4a5e-a4cb-01e00a65bef8" />
+► [Chiemerie Project 2 Dataset for Data Analytics.xlsx - Dashboard.pdf](https://github.com/user-attachments/files/31940425/Chiemerie.Project.2.Dataset.for.Data.Analytics.xlsx.-.Dashboard.pdf)
 
 
-overall business decision for your project
+
+Overall business decision for this project
 
 Based on the findings from the sales analysis, management should focus resources on high-performing products and customer acquisition channels, improve the performance of underperforming areas, reduce cancelled and returned orders, and use identified sales trends to improve inventory and marketing decisions. These actions can help increase sales performance, improve customer satisfaction, and support more effective business decision-making.
 
