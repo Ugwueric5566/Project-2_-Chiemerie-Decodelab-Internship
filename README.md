@@ -9,7 +9,7 @@ The project involved several stages, including data cleaning, data organization,
 
 An interactive dashboard was created to present the findings through charts, graphs, and KPI cards, making the results easier to understand and interpret.
 
-🎯 Project Objectives
+ Project Objectives
 Clean and prepare the raw sales dataset.
 Analyze sales and transaction performance.
 Identify top-performing products.
@@ -19,8 +19,7 @@ Calculate important KPIs and descriptive statistics.
 Create an easy-to-understand sales dashboard.
 Generate insights that can support data-driven business decisions.
 
- Tool Used
-  
+  Tool Used
 
  
  
@@ -29,35 +28,52 @@ Generate insights that can support data-driven business decisions.
 ▶Charts & Visualizations
 ▶Dashboard Design
 
-►[Chiemerie Project 2 Dataset for Data Analytics.xlsx](https://github.com/user-attachments/files/31916523/Chiemerie.Project.2.Dataset.for.Data.Analytics.xlsx)
+► [Chiemerie Project 4 Dataset for Data Analytics (1).xlsx](https://github.com/user-attachments/files/32062139/Chiemerie.Project.4.Dataset.for.Data.Analytics.1.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (2).xlsx](https://github.com/user-attachments/files/31916558/Chiemerie.Project.2.Dataset.for.Data.Analytics.2.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (3).xlsx](https://github.com/user-attachments/files/31916594/Chiemerie.Project.2.Dataset.for.Data.Analytics.3.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (4).xlsx](https://github.com/user-attachments/files/31916610/Chiemerie.Project.2.Dataset.for.Data.Analytics.4.xlsx)
+► [Chiemerie Project 4 Dataset for Data Analytics (2).xlsx](https://github.com/user-attachments/files/32062160/Chiemerie.Project.4.Dataset.for.Data.Analytics.2.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (5).xlsx](https://github.com/user-attachments/files/31916623/Chiemerie.Project.2.Dataset.for.Data.Analytics.5.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (6).xlsx](https://github.com/user-attachments/files/31916661/Chiemerie.Project.2.Dataset.for.Data.Analytics.6.xlsx)
+► [Chiemerie Project 4 Dataset for Data Analytics (3).xlsx](https://github.com/user-attachments/files/32062178/Chiemerie.Project.4.Dataset.for.Data.Analytics.3.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (7).xlsx](https://github.com/user-attachments/files/31916684/Chiemerie.Project.2.Dataset.for.Data.Analytics.7.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (8).xlsx](https://github.com/user-attachments/files/31916732/Chiemerie.Project.2.Dataset.for.Data.Analytics.8.xlsx)
+► [Chiemerie Project 4 Dataset for Data Analytics (4).xlsx](https://github.com/user-attachments/files/32062205/Chiemerie.Project.4.Dataset.for.Data.Analytics.4.xlsx)
 
-►  [Chiemerie Project 2 Dataset for Data Analytics (9).xlsx](https://github.com/user-attachments/files/31916745/Chiemerie.Project.2.Dataset.for.Data.Analytics.9.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (10).xlsx](https://github.com/user-attachments/files/31916817/Chiemerie.Project.2.Dataset.for.Data.Analytics.10.xlsx)
+► [Chiemerie Project 4 Dataset for Data Analytics (5).xlsx](https://github.com/user-attachments/files/32062215/Chiemerie.Project.4.Dataset.for.Data.Analytics.5.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (11).xlsx](https://github.com/user-attachments/files/31916854/Chiemerie.Project.2.Dataset.for.Data.Analytics.11.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (12).xlsx](https://github.com/user-attachments/files/31916986/Chiemerie.Project.2.Dataset.for.Data.Analytics.12.xlsx)
+► [Chiemerie Project 4 Dataset for Data Analytics (6).xlsx](https://github.com/user-attachments/files/32062315/Chiemerie.Project.4.Dataset.for.Data.Analytics.6.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics (13).xlsx](https://github.com/user-attachments/files/31917009/Chiemerie.Project.2.Dataset.for.Data.Analytics.13.xlsx)
 
-►  [Chiemerie Project 2 Dataset for Data Analytics (14).xlsx](https://github.com/user-attachments/files/31917038/Chiemerie.Project.2.Dataset.for.Data.Analytics.14.xlsx)
 
-► [Chiemerie Project 2 Dataset for Data Analytics.xlsx - Dashboard.pdf](https://github.com/user-attachments/files/31940425/Chiemerie.Project.2.Dataset.for.Data.Analytics.xlsx.-.Dashboard.pdf)
+► [Chiemerie Project 4 Dataset for Data Analytics (7).xlsx](https://github.com/user-attachments/files/32062338/Chiemerie.Project.4.Dataset.for.Data.Analytics.7.xlsx)
+
+
+► [Chiemerie Project 4 Dataset for Data Analytics (8).xlsx](https://github.com/user-attachments/files/32062804/Chiemerie.Project.4.Dataset.for.Data.Analytics.8.xlsx)
+
+
+►  [Chiemerie Project 4 Dataset for Data Analytics (9).xlsx](https://github.com/user-attachments/files/32062818/Chiemerie.Project.4.Dataset.for.Data.Analytics.9.xlsx)
+
+
+► [Chiemerie Project 4 Dataset for Data Analytics (10).xlsx](https://github.com/user-attachments/files/32062837/Chiemerie.Project.4.Dataset.for.Data.Analytics.10.xlsx)
+
+
+► [Chiemerie Project 4 Dataset for Data Analytics (12).xlsx](https://github.com/user-attachments/files/32062948/Chiemerie.Project.4.Dataset.for.Data.Analytics.12.xlsx)
+
+
+
+► [Chiemerie Project 4 Dataset for Data Analytics (13).xlsx](https://github.com/user-attachments/files/32062987/Chiemerie.Project.4.Dataset.for.Data.Analytics.13.xlsx)
+
+
+
+►  [Chiemerie Project 4 Dataset for Data Analytics (11).xlsx](https://github.com/user-attachments/files/32063077/Chiemerie.Project.4.Dataset.for.Data.Analytics.11.xlsx)
+
+
+► [Chiemerie Project 4 Dataset for Data Analytics (14).xlsx](https://github.com/user-attachments/files/32063124/Chiemerie.Project.4.Dataset.for.Data.Analytics.14.xlsx)
+
+
 
 
 
