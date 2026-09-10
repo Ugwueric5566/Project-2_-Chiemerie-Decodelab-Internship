@@ -1,4 +1,4 @@
-# Project 2_-Chiemerie-Decodelab-Internship
+# Project 4_-Chiemerie-Decodelab-Internship
 A Data Analysis project completed using Google Sheets to clean, transform, analyze, and visualize sales data. The project includes data cleaning, descriptive statistics, sales performance analysis, KPI calculations, and interactive dashboard visualizations to generate meaningful business insights.
 
 Project Overview
@@ -25,10 +25,8 @@ Generate insights that can support data-driven business decisions.
  
  
 ▶Google Sheets
-▶Spreadsheet functions
 ▶Pivot Tables
 ▶Charts & Visualizations
-▶Data Cleaning & Transformation
 ▶Dashboard Design
 
 ►[Chiemerie Project 2 Dataset for Data Analytics.xlsx](https://github.com/user-attachments/files/31916523/Chiemerie.Project.2.Dataset.for.Data.Analytics.xlsx)
